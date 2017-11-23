@@ -1,4 +1,4 @@
-###发现github上的[河科大][1]人
+### 发现github上的[河科大][1]人
 
 1. 请发github用户名到<haust.edu.cn@gmail.com>
 2. 添加后会发邮件通知
