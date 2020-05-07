@@ -6,8 +6,8 @@
 4. Telegram：<https://t.me/haust_group>
 5. Gitter：<https://gitter.im/haust_group>
 
-![logo](http://haust-on-github.github.io/about/logo.jpg '河南科技大学')
+![logo](./logo.jpg '河南科技大学')
 
 
 
-[1]: http://www.haust.edu.cn/
+[1]: https://www.haust.edu.cn
